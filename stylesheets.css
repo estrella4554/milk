@@ -7,10 +7,13 @@
  }
 .header-list li {
   float:left;
+ font-size:36px;
+ padding: 20px 40px;
 }
 .header-logo{
  color:rgb(255,255,255);
 }
 .header-list li {
  color:rgb(255,255,255);
+ padding: 33px 20px;
 }
